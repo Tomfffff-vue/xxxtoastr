@@ -1,0 +1,7 @@
+{
+  "name": "xxxtoastr",
+  "version": "1.0.0",
+  "description": "toastr vue test",
+  "main": "src/index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
