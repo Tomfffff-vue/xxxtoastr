@@ -1,6 +1,5 @@
 # xxxtoastr
 
-
 Vue.use(Toastr)
 let toastr = new Toastr.Toastr({
   "closeButton": false,
